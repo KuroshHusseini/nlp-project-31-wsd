@@ -66,10 +66,22 @@ def run_all_algorithms(sentence, target_word):
     results = []
 
     def record(name, synset, elapsed):
+        if synset is None:
+            syn_name = None
+            syn_def = "No prediction returned."
+        elif isinstance(synset, str):
+            syn_name = synset
+            try:
+                syn_def = wn.synset(synset).definition()
+            except Exception:
+                syn_def = "No definition available."
+        else:
+            syn_name = synset.name()
+            syn_def = synset.definition()
         results.append({
             "algorithm": name,
-            "synset": synset.name() if synset else None,
-            "definition": synset.definition() if synset else "No prediction returned.",
+            "synset": syn_name,
+            "definition": syn_def,
             "elapsed_ms": round(elapsed * 1000, 1),
         })
 
