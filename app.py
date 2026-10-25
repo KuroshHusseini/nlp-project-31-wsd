@@ -59,11 +59,11 @@ st.sidebar.title("Navigation")
 page = st.sidebar.radio(
     "Go to",
     [
+        "About",
         "WSD Analyzer",
         "Algorithm Comparison",
         "Phonetic Analysis",
         "Evaluation Results",
-        "About",
     ],
 )
 
