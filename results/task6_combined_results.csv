@@ -1,0 +1,6 @@
+Term,Term Type,WuPalmer Accuracy,Combined Accuracy,WuPalmer Coverage,Combined Coverage,Instances
+ac,acronym,0.0,0.0,1.0,1.0,10
+resistance,regular,0.0,0.0,1.0,1.0,10
+cold,regular,0.0,0.0,1.0,1.0,10
+fa,acronym,0.0,0.0,1.0,1.0,10
+association,regular,0.0,0.0,1.0,1.0,10

@@ -1,0 +1,9 @@
+Algorithm,Regular Accuracy,Acronym Accuracy,Overall Accuracy,Coverage,Execution Time (s)
+Original Lesk,0.368,0.039,0.282,0.753,0.0
+Adapted Lesk,0.221,0.059,0.163,0.923,0.1
+Extended Lesk (hyperhypo),0.221,0.059,0.163,0.923,0.1
+Cosine Lesk,0.143,0.012,0.096,0.923,0.3
+Path Similarity,0.305,0.0,0.197,0.923,2.5
+Info Content (Resnik),0.26,0.0,0.167,0.923,0.3
+Wu-Palmer,0.227,0.012,0.151,0.923,2.5
+Highest Lemma Count,0.13,0.0,0.084,0.923,0.0

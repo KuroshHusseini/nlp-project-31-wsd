@@ -1,0 +1,198 @@
+term,term_type,sentence,ground_truth,predicted_sense,correct
+resistance,regular,Elevated pulmonary vascular resistance was identified as a complication of chronic heart failure.,Vascular Resistance,electric_resistance.n.01,False
+resistance,regular,Peripheral resistance determines afterload and contributes to systemic blood pressure.,Vascular Resistance,resistance.n.02,False
+resistance,regular,Vasodilators reduce vascular resistance and improve cardiac output.,Vascular Resistance,resistance.n.01,False
+resistance,regular,Total peripheral resistance was measured non-invasively using Doppler ultrasound.,Vascular Resistance,electric_resistance.n.01,False
+resistance,regular,A decrease in systemic vascular resistance was observed following administration of the drug.,Vascular Resistance,electric_resistance.n.01,False
+resistance,regular,Antibiotic resistance is an increasing global health threat requiring urgent action.,Drug Resistance,resistance.n.01,False
+resistance,regular,Multidrug-resistant tuberculosis poses a significant challenge for treatment.,Drug Resistance,electric_resistance.n.01,False
+resistance,regular,Insulin resistance is a key feature of type 2 diabetes mellitus.,Drug Resistance,electric_resistance.n.01,False
+resistance,regular,Cancer cells can develop resistance to chemotherapy through various mechanisms.,Drug Resistance,resistance.n.02,False
+resistance,regular,The development of resistance to antimalarial drugs has complicated treatment protocols.,Drug Resistance,resistance.n.08,False
+cold,regular,The patient presented with symptoms of a cold including runny nose and sore throat.,Common Cold,cold.n.01,False
+cold,regular,Rhinovirus is the most common cause of the common cold in adults.,Common Cold,coldness.n.03,False
+cold,regular,Over-the-counter medications can help relieve cold symptoms but do not cure the infection.,Common Cold,cold.n.01,False
+cold,regular,She developed a cold after contact with infected individuals at work.,Common Cold,cold.a.01,True
+cold,regular,The cold resolved within a week without antibiotic treatment.,Common Cold,cold.n.01,False
+cold,regular,Cold exposure can trigger Raynaud's phenomenon in susceptible patients.,Cold Temperature,cold.a.01,True
+cold,regular,The tissue sample was preserved under cold storage conditions at 4 degrees Celsius.,Cold Temperature,cold.n.01,False
+cold,regular,Cold therapy was applied to reduce post-operative swelling.,Cold Temperature,cold.a.01,True
+cold,regular,Hypothermia occurs when the body is exposed to extreme cold for prolonged periods.,Cold Temperature,cold.n.01,False
+cold,regular,Cold packs were applied to the injured knee to reduce inflammation.,Cold Temperature,cold.n.01,False
+fat,regular,Saturated fat consumption was positively correlated with cardiovascular disease risk.,Dietary Fat,adipose_tissue.n.01,True
+fat,regular,The diet was high in fat and low in carbohydrates as per the ketogenic protocol.,Dietary Fat,adipose_tissue.n.01,True
+fat,regular,Replacing saturated fat with unsaturated fat reduced LDL cholesterol levels.,Dietary Fat,adipose_tissue.n.01,True
+fat,regular,Trans fat intake was associated with increased systemic inflammation.,Dietary Fat,adipose_tissue.n.01,True
+fat,regular,Dietary fat provides essential fatty acids and fat-soluble vitamins.,Dietary Fat,adipose_tissue.n.01,True
+fat,regular,Visceral fat is a strong predictor of metabolic syndrome and cardiovascular risk.,Adipose Tissue (Body Fat),adipose_tissue.n.01,True
+fat,regular,Subcutaneous fat was measured by skinfold thickness at multiple body sites.,Adipose Tissue (Body Fat),adipose_tissue.n.01,True
+fat,regular,Excessive abdominal fat is an independent risk factor for type 2 diabetes.,Adipose Tissue (Body Fat),adipose_tissue.n.01,True
+fat,regular,Brown adipose fat plays a role in thermogenesis and energy expenditure.,Adipose Tissue (Body Fat),fat.n.01,True
+fat,regular,Fat accumulation in the liver is the hallmark of non-alcoholic fatty liver disease.,Adipose Tissue (Body Fat),fat.n.01,True
+strain,regular,The virulent strain of E. coli was isolated from contaminated food samples.,Bacterial Strain,strain.n.01,False
+strain,regular,A novel strain of influenza virus was detected during the winter outbreak.,Bacterial Strain,strain.n.01,False
+strain,regular,The antibiotic-resistant strain spread rapidly through the hospital ward.,Bacterial Strain,strain.n.01,False
+strain,regular,Multiple strains of Staphylococcus aureus were characterized using molecular typing.,Bacterial Strain,strain.n.01,False
+strain,regular,The laboratory maintained a reference strain for comparative microbiology studies.,Bacterial Strain,strain.n.01,False
+strain,regular,The athlete sustained a hamstring strain during the sprint event.,Muscle Strain,strain.n.01,False
+strain,regular,Physical therapy was recommended for the patient's lumbar strain.,Muscle Strain,strain.n.01,False
+strain,regular,Muscle strain from overexertion resulted in localized pain and tenderness.,Muscle Strain,strain.n.07,True
+strain,regular,"Rest, ice, compression, and elevation were prescribed for the ankle strain.",Muscle Strain,strain.n.01,False
+strain,regular,Repetitive motion caused a strain injury to the rotator cuff tendons.,Muscle Strain,strain.n.07,True
+strep,regular,sample text on strep 1,C0038402,streptococcus.n.01,False
+strep,regular,sample text on the strep 2,C0038395,streptococcus.n.01,False
+frequency,regular,The frequency of adverse events was higher in the treatment group than placebo.,Frequency of Occurrence,frequency.n.02,False
+frequency,regular,Seizure frequency decreased significantly after starting the new antiepileptic drug.,Frequency of Occurrence,frequency.n.01,False
+frequency,regular,Migraine frequency was reduced from 8 to 3 episodes per month after treatment.,Frequency of Occurrence,frequency.n.02,False
+frequency,regular,The frequency of hospitalizations dropped following implementation of the protocol.,Frequency of Occurrence,frequency.n.01,False
+frequency,regular,Urinary frequency is a common complaint in patients with overactive bladder.,Frequency of Occurrence,frequency.n.02,False
+frequency,regular,High frequency ultrasound provides detailed images of superficial structures.,Sound/Wave Frequency,frequency.n.01,False
+frequency,regular,The electrical signal was filtered to retain only low frequency components.,Sound/Wave Frequency,frequency.n.02,False
+frequency,regular,Tinnitus was characterized as a high frequency ringing in the ears.,Sound/Wave Frequency,frequency.n.02,False
+frequency,regular,Nerve conduction velocity was measured at different frequencies of stimulation.,Sound/Wave Frequency,frequency.n.01,False
+frequency,regular,Low frequency transcranial magnetic stimulation was used to inhibit cortical excitability.,Sound/Wave Frequency,frequency.n.02,False
+discharge,regular,The patient was ready for discharge after three days of inpatient treatment.,Patient Discharge,discharge.n.01,False
+discharge,regular,Discharge planning should begin on admission to ensure continuity of care.,Patient Discharge,dismissal.n.04,False
+discharge,regular,Early discharge from hospital was associated with lower readmission rates in this cohort.,Patient Discharge,discharge.n.05,False
+discharge,regular,The discharge summary included medication reconciliation and follow-up instructions.,Patient Discharge,discharge.n.01,False
+discharge,regular,Premature discharge increased the risk of complications in postoperative patients.,Patient Discharge,discharge.n.01,False
+discharge,regular,Vaginal discharge was reported as a primary symptom in women with bacterial vaginosis.,Bodily Discharge,discharge.n.05,False
+discharge,regular,Purulent discharge from the wound indicated a secondary bacterial infection.,Bodily Discharge,discharge.n.06,False
+discharge,regular,"Nipple discharge may be a sign of galactorrhea or, in rare cases, breast cancer.",Bodily Discharge,discharge.n.03,False
+discharge,regular,Urethral discharge was observed in patients diagnosed with gonorrhea.,Bodily Discharge,discharge.n.05,False
+discharge,regular,"The character of the discharge—color, consistency, and odor—guided diagnosis.",Bodily Discharge,discharge.n.01,False
+diet,regular,A low-sodium diet was prescribed to manage the patient's hypertension.,Dietary Regimen,diet.n.01,False
+diet,regular,The Mediterranean diet has been shown to reduce cardiovascular disease risk.,Dietary Regimen,diet.n.03,False
+diet,regular,Patients with celiac disease must maintain a strict gluten-free diet.,Dietary Regimen,diet.n.01,False
+diet,regular,The ketogenic diet was evaluated as an adjunct therapy for drug-resistant epilepsy.,Dietary Regimen,diet.n.03,False
+diet,regular,A high-fiber diet reduces the risk of colorectal cancer and promotes bowel health.,Dietary Regimen,diet.n.01,False
+diet,regular,The study assessed the habitual diet of participants using food frequency questionnaires.,Food Intake Pattern,diet.n.04,True
+diet,regular,Poor diet quality was associated with increased risk of metabolic syndrome.,Food Intake Pattern,diet.n.01,False
+diet,regular,The diet of the study population consisted primarily of processed foods.,Food Intake Pattern,diet.n.01,False
+diet,regular,Nutritional analysis revealed that the average diet was deficient in essential vitamins.,Food Intake Pattern,diet.n.02,False
+diet,regular,Improving the diet of school children was the primary goal of the intervention.,Food Intake Pattern,diet.n.04,True
+association,regular,A significant association was found between smoking and lung cancer incidence.,Statistical Association,association.n.08,False
+association,regular,The association between obesity and type 2 diabetes is well established.,Statistical Association,association.n.02,False
+association,regular,No statistically significant association was observed between the variables.,Statistical Association,association.n.02,False
+association,regular,Genome-wide association studies have identified multiple risk loci for the disease.,Statistical Association,association.n.02,False
+association,regular,The strength of the association was quantified using the odds ratio.,Statistical Association,association.n.02,False
+association,regular,The American Medical Association published updated clinical guidelines.,Professional Association,association.n.02,False
+association,regular,The national association of cardiologists organized an annual congress.,Professional Association,association.n.02,False
+association,regular,Membership in the association is open to all licensed practitioners.,Professional Association,association.n.03,False
+association,regular,The association released a position statement on evidence-based prescribing.,Professional Association,association.n.01,False
+association,regular,The psychiatric association endorsed the revised diagnostic criteria.,Professional Association,association.n.02,False
+secretion,regular,Insulin secretion by pancreatic beta cells is impaired in type 2 diabetes.,Biological Secretion,secretion.n.02,False
+secretion,regular,Gastric acid secretion was reduced following proton pump inhibitor treatment.,Biological Secretion,secretion.n.01,False
+secretion,regular,Thyroid hormone secretion is regulated by the hypothalamic-pituitary axis.,Biological Secretion,secretion.n.01,False
+secretion,regular,Excessive secretion of cortisol leads to Cushing's syndrome.,Biological Secretion,secretion.n.01,False
+secretion,regular,The secretion of mucus protects the respiratory epithelium from pathogens.,Biological Secretion,secretion.n.01,False
+secretion,regular,Airway secretions were cleared using mechanical suction during ventilation.,Secretion (Product),secretion.n.01,False
+secretion,regular,Thick secretions obstructed the bronchi of patients with cystic fibrosis.,Secretion (Product),secretion.n.01,False
+secretion,regular,The secretion was cultured and analyzed for bacterial growth.,Secretion (Product),secretion.n.01,False
+secretion,regular,Purulent secretions from the ear canal suggested otitis media.,Secretion (Product),secretion.n.01,False
+secretion,regular,The color and viscosity of the nasal secretion helped guide antibiotic selection.,Secretion (Product),secretion.n.01,False
+mr,acronym,Brain MR demonstrated multiple cortical and subcortical lesions.,Magnetic Resonance Imaging,mister.n.01,False
+mr,acronym,Cardiac MR quantified ventricular volumes and ejection fraction precisely.,Magnetic Resonance Imaging,mister.n.01,False
+mr,acronym,MR spectroscopy provided metabolic information about the lesion.,Magnetic Resonance Imaging,mister.n.01,False
+mr,acronym,Diffusion-weighted MR imaging was used to identify acute ischemic stroke.,Magnetic Resonance Imaging,mister.n.01,False
+mr,acronym,Whole-body MR was performed to assess disease extent in multiple myeloma.,Magnetic Resonance Imaging,mister.n.01,False
+mr,acronym,Echocardiography revealed severe MR with a broad eccentric regurgitant jet.,Mitral Regurgitation,mister.n.01,False
+mr,acronym,Surgical repair is preferred over replacement for MR caused by leaflet prolapse.,Mitral Regurgitation,mister.n.01,False
+mr,acronym,Chronic MR causes left ventricular volume overload and eventually dilatation.,Mitral Regurgitation,mister.n.01,False
+mr,acronym,Transcatheter edge-to-edge repair is an emerging treatment for inoperable MR.,Mitral Regurgitation,mister.n.01,False
+mr,acronym,MR severity was graded using quantitative echocardiographic parameters.,Mitral Regurgitation,mister.n.01,False
+cp,acronym,CP is a group of non-progressive disorders affecting motor function.,Cerebral Palsy,not_in_wordnet,
+cp,acronym,Spastic CP is the most common type and results from cortical or subcortical injury.,Cerebral Palsy,not_in_wordnet,
+cp,acronym,Early physiotherapy intervention improves functional outcomes in children with CP.,Cerebral Palsy,not_in_wordnet,
+cp,acronym,Botulinum toxin injections reduce spasticity in selected children with CP.,Cerebral Palsy,not_in_wordnet,
+cp,acronym,The Gross Motor Function Classification System is used to grade severity in CP.,Cerebral Palsy,not_in_wordnet,
+cp,acronym,The patient presented with acute CP radiating to the left arm.,Chest Pain,not_in_wordnet,
+cp,acronym,Non-cardiac causes of CP include esophageal spasm and musculoskeletal disorders.,Chest Pain,not_in_wordnet,
+cp,acronym,Troponin measurement is essential in the evaluation of acute CP.,Chest Pain,not_in_wordnet,
+cp,acronym,Unstable angina manifests as rest CP without ST-elevation on ECG.,Chest Pain,not_in_wordnet,
+cp,acronym,CP on exertion that resolves with rest is the hallmark of stable angina.,Chest Pain,not_in_wordnet,
+ms,acronym,Patients diagnosed with MS often experience relapsing and remitting disease courses.,Multiple Sclerosis,thousand.n.01,False
+ms,acronym,MRI of the brain showed multiple demyelinating lesions consistent with MS.,Multiple Sclerosis,mississippi.n.02,False
+ms,acronym,Disease-modifying therapies can slow the progression of MS.,Multiple Sclerosis,mississippi.n.02,False
+ms,acronym,Fatigue is one of the most disabling symptoms reported by patients with MS.,Multiple Sclerosis,mississippi.n.02,False
+ms,acronym,The diagnosis of MS was confirmed using the McDonald diagnostic criteria.,Multiple Sclerosis,mississippi.n.02,False
+ms,acronym,Rheumatic fever is the most common cause of acquired MS in developing countries.,Mitral Stenosis,mississippi.n.02,False
+ms,acronym,Echocardiography confirmed severe MS with a mitral valve area of 0.9 cm squared.,Mitral Stenosis,multiple_sclerosis.n.01,False
+ms,acronym,Percutaneous balloon mitral valvuloplasty was performed for symptomatic MS.,Mitral Stenosis,manuscript.n.01,False
+ms,acronym,The murmur characteristic of MS was heard best at the apex with the bell.,Mitral Stenosis,mississippi.n.02,False
+ms,acronym,MS leads to elevated left atrial pressure and pulmonary congestion.,Mitral Stenosis,thousand.n.01,False
+ms,acronym,Liquid chromatography MS was used to quantify trace amounts of the drug.,Mass Spectrometry,mississippi.n.02,False
+ms,acronym,Tandem MS enabled identification of phosphopeptides in proteomic studies.,Mass Spectrometry,mississippi.n.02,False
+ms,acronym,Metabolomics studies rely on high-resolution MS to profile small molecules.,Mass Spectrometry,mississippi.n.02,False
+ms,acronym,MS confirmed the molecular weight of the synthesized compound.,Mass Spectrometry,mississippi.n.02,False
+ms,acronym,Gas chromatography coupled with MS identified volatile organic compounds in exhaled air.,Mass Spectrometry,mississippi.n.02,False
+gp,acronym,The GP referred the patient to a cardiologist for further evaluation.,General Practitioner,general_practitioner.n.01,False
+gp,acronym,Primary care is delivered by a GP who acts as the first point of contact.,General Practitioner,general_practitioner.n.01,False
+gp,acronym,The GP prescribed antihypertensive medication and arranged follow-up in six weeks.,General Practitioner,general_practitioner.n.01,False
+gp,acronym,Regular GP visits allowed early detection of the patient's hypertension.,General Practitioner,general_practitioner.n.01,False
+gp,acronym,The GP coordinated care between multiple specialists to manage the chronic conditions.,General Practitioner,general_practitioner.n.01,False
+gp,acronym,Platelet GP IIb/IIIa inhibitors are used to prevent thrombosis during coronary interventions.,Glycoprotein,general_practitioner.n.01,False
+gp,acronym,The viral envelope GP mediates cell entry and is a target for vaccine development.,Glycoprotein,general_practitioner.n.01,False
+gp,acronym,Surface GP expression was quantified by flow cytometry.,Glycoprotein,general_practitioner.n.01,False
+gp,acronym,P-selectin is a GP expressed on activated platelets and endothelial cells.,Glycoprotein,general_practitioner.n.01,False
+gp,acronym,GP Ib is the receptor for von Willebrand factor and is essential for platelet adhesion.,Glycoprotein,general_practitioner.n.01,False
+fa,acronym,Omega-3 FA supplementation reduced triglyceride levels in dyslipidemic patients.,Fatty Acid,fa.n.01,False
+fa,acronym,Free FA released from adipose tissue provide an energy substrate during fasting.,Fatty Acid,fa.n.01,False
+fa,acronym,Essential FA cannot be synthesized de novo and must be obtained from the diet.,Fatty Acid,fa.n.01,False
+fa,acronym,Plasma FA profiling revealed elevated saturated FA in obese patients.,Fatty Acid,fa.n.01,False
+fa,acronym,Short-chain FA produced by gut bacteria have anti-inflammatory properties.,Fatty Acid,fa.n.01,False
+fa,acronym,FA supplementation before and during pregnancy prevents neural tube defects.,Folic Acid,fa.n.01,False
+fa,acronym,Deficiency of FA leads to megaloblastic anemia with hypersegmented neutrophils.,Folic Acid,fa.n.01,False
+fa,acronym,Patients on methotrexate therapy require concurrent FA to reduce toxicity.,Folic Acid,fa.n.01,False
+fa,acronym,Serum FA levels were measured to evaluate nutritional status in elderly patients.,Folic Acid,fa.n.01,False
+fa,acronym,Fortification of cereal products with FA has reduced the incidence of spina bifida.,Folic Acid,fa.n.01,False
+bp,acronym,Ambulatory BP monitoring over 24 hours revealed a nocturnal dipping pattern.,Blood Pressure,not_in_wordnet,
+bp,acronym,Target BP for hypertensive patients with diabetes is below 130 over 80 mmHg.,Blood Pressure,not_in_wordnet,
+bp,acronym,Elevated BP was recorded at three consecutive clinic visits before treatment was started.,Blood Pressure,not_in_wordnet,
+bp,acronym,Self-monitoring of BP at home improved adherence to antihypertensive medication.,Blood Pressure,not_in_wordnet,
+bp,acronym,BP was measured after five minutes of rest in the seated position.,Blood Pressure,not_in_wordnet,
+bp,acronym,Drug purity was assessed according to BP specifications and reference standards.,British Pharmacopoeia,not_in_wordnet,
+bp,acronym,The BP monograph was used to verify the identity of the active pharmaceutical ingredient.,British Pharmacopoeia,not_in_wordnet,
+bp,acronym,Compliance with BP standards is mandatory for medicines licensed in the United Kingdom.,British Pharmacopoeia,not_in_wordnet,
+bp,acronym,Dissolution testing was performed in accordance with the BP apparatus method.,British Pharmacopoeia,not_in_wordnet,
+bp,acronym,The formulation met all quality criteria as defined in the current edition of the BP.,British Pharmacopoeia,not_in_wordnet,
+cf,acronym,"CFTR mutations cause CF, a life-limiting autosomal recessive disorder.",Cystic Fibrosis,californium.n.01,False
+cf,acronym,Regular physiotherapy to clear secretions is essential in the management of CF.,Cystic Fibrosis,cystic_fibrosis.n.01,False
+cf,acronym,Pancreatic enzyme replacement therapy is required by most patients with CF.,Cystic Fibrosis,cystic_fibrosis.n.01,False
+cf,acronym,Lung transplantation may be considered for patients with end-stage CF.,Cystic Fibrosis,californium.n.01,False
+cf,acronym,Newborn screening programs allow early diagnosis and treatment of CF.,Cystic Fibrosis,cystic_fibrosis.n.01,False
+cf,acronym,Analysis of CF revealed elevated protein and lymphocytosis consistent with viral meningitis.,Cerebrospinal Fluid,cystic_fibrosis.n.01,False
+cf,acronym,CF pressure was measured at 28 cm of water confirming raised intracranial pressure.,Cerebrospinal Fluid,californium.n.01,False
+cf,acronym,Oligoclonal bands in the CF support the diagnosis of multiple sclerosis.,Cerebrospinal Fluid,cystic_fibrosis.n.01,False
+cf,acronym,Blood was detected in the CF following subarachnoid hemorrhage.,Cerebrospinal Fluid,cystic_fibrosis.n.01,False
+cf,acronym,"Glucose levels in the CF were below serum levels, suggesting bacterial infection.",Cerebrospinal Fluid,cystic_fibrosis.n.01,False
+pe,acronym,CT pulmonary angiography confirmed bilateral PE in the patient.,Pulmonary Embolism,pe.n.01,False
+pe,acronym,Anticoagulation with low molecular weight heparin was initiated for acute PE.,Pulmonary Embolism,pe.n.01,False
+pe,acronym,D-dimer elevation raised the clinical suspicion of PE in this postoperative patient.,Pulmonary Embolism,pe.n.01,False
+pe,acronym,Massive PE causing haemodynamic instability was treated with systemic thrombolysis.,Pulmonary Embolism,pe.n.01,False
+pe,acronym,The Wells score was calculated to estimate the pre-test probability of PE.,Pulmonary Embolism,pe.n.01,False
+pe,acronym,PE revealed splenomegaly and tender hepatomegaly consistent with portal hypertension.,Physical Examination,pe.n.01,False
+pe,acronym,Findings on PE were unremarkable except for mild ankle edema.,Physical Examination,pe.n.01,False
+pe,acronym,Cardiovascular PE showed a regular rate and rhythm with no murmurs.,Physical Examination,pe.n.01,False
+pe,acronym,The patient consented to a full PE including neurological assessment.,Physical Examination,pe.n.01,False
+pe,acronym,Abdominal PE detected a pulsatile mass suggesting aortic aneurysm.,Physical Examination,pe.n.01,False
+ac,acronym,AC was used as an adjunct therapy for chronic low back pain management.,Acupuncture,alternating_current.n.01,False
+ac,acronym,A randomized trial evaluated the efficacy of AC versus sham treatment for headache.,Acupuncture,actinium.n.01,False
+ac,acronym,Patients receiving AC reported greater improvement in pain scores than controls.,Acupuncture,actinium.n.01,False
+ac,acronym,Traditional Chinese medicine advocates AC for a wide range of conditions.,Acupuncture,actinium.n.01,False
+ac,acronym,The mechanisms underlying AC analgesia are still under investigation.,Acupuncture,actinium.n.01,False
+ac,acronym,Beta receptor stimulation activates AC and increases intracellular cyclic AMP.,Adenylyl Cyclase,actinium.n.01,False
+ac,acronym,Inhibition of AC reduced cAMP production and attenuated the inflammatory response.,Adenylyl Cyclase,actinium.n.01,False
+ac,acronym,AC isoforms show tissue-specific expression patterns in the cardiovascular system.,Adenylyl Cyclase,actinium.n.01,False
+ac,acronym,G-protein coupled receptor signaling acts through AC to modulate cellular function.,Adenylyl Cyclase,actinium.n.01,False
+ac,acronym,Cholera toxin permanently activates AC leading to massive fluid secretion.,Adenylyl Cyclase,actinium.n.01,False
+dm,acronym,Patients with DM require regular screening for diabetic retinopathy.,Diabetes Mellitus,diabetes_mellitus.n.01,True
+dm,acronym,HbA1c levels above 6.5 percent confirm the diagnosis of DM.,Diabetes Mellitus,diabetes_mellitus.n.01,True
+dm,acronym,Type 2 DM is associated with insulin resistance and progressive beta cell failure.,Diabetes Mellitus,diabetes_mellitus.n.01,True
+dm,acronym,Metformin remains the first-line oral agent for newly diagnosed type 2 DM.,Diabetes Mellitus,diabetes_mellitus.n.01,True
+dm,acronym,Foot care education is essential to prevent ulceration in patients with DM.,Diabetes Mellitus,decimeter.n.01,False
+dm,acronym,DM is an inflammatory myopathy characterized by skin rash and proximal muscle weakness.,Dermatomyositis,diabetes_mellitus.n.01,False
+dm,acronym,Heliotrope rash around the eyelids is a classic dermatological feature of DM.,Dermatomyositis,diabetes_mellitus.n.01,False
+dm,acronym,Gottron papules overlying the metacarpophalangeal joints suggest DM.,Dermatomyositis,diabetes_mellitus.n.01,False
+dm,acronym,Muscle biopsy in DM shows perifascicular atrophy and inflammatory infiltrate.,Dermatomyositis,diabetes_mellitus.n.01,False
+dm,acronym,Anti-Jo-1 antibodies are associated with interstitial lung disease complicating DM.,Dermatomyositis,diabetes_mellitus.n.01,False

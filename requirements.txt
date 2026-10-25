@@ -1,0 +1,12 @@
+nltk>=3.8
+pywsd>=1.2.4
+fuzzy>=1.2.2
+jellyfish>=1.0
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+streamlit>=1.30
+requests>=2.28
+scipy>=1.10
+Cython>=3.0
+pytest>=7.0

@@ -1,0 +1,1432 @@
+{
+  "cold": {
+    "term_type": "regular",
+    "instances": [
+      {
+        "sentence": "The patient presented with symptoms of a cold including runny nose and sore throat.",
+        "cui": "C0009443",
+        "cui_label": "Common Cold"
+      },
+      {
+        "sentence": "Rhinovirus is the most common cause of the common cold in adults.",
+        "cui": "C0009443",
+        "cui_label": "Common Cold"
+      },
+      {
+        "sentence": "Over-the-counter medications can help relieve cold symptoms but do not cure the infection.",
+        "cui": "C0009443",
+        "cui_label": "Common Cold"
+      },
+      {
+        "sentence": "She developed a cold after contact with infected individuals at work.",
+        "cui": "C0009443",
+        "cui_label": "Common Cold"
+      },
+      {
+        "sentence": "The cold resolved within a week without antibiotic treatment.",
+        "cui": "C0009443",
+        "cui_label": "Common Cold"
+      },
+      {
+        "sentence": "Cold exposure can trigger Raynaud's phenomenon in susceptible patients.",
+        "cui": "C0009264",
+        "cui_label": "Cold Temperature"
+      },
+      {
+        "sentence": "The tissue sample was preserved under cold storage conditions at 4 degrees Celsius.",
+        "cui": "C0009264",
+        "cui_label": "Cold Temperature"
+      },
+      {
+        "sentence": "Cold therapy was applied to reduce post-operative swelling.",
+        "cui": "C0009264",
+        "cui_label": "Cold Temperature"
+      },
+      {
+        "sentence": "Hypothermia occurs when the body is exposed to extreme cold for prolonged periods.",
+        "cui": "C0009264",
+        "cui_label": "Cold Temperature"
+      },
+      {
+        "sentence": "Cold packs were applied to the injured knee to reduce inflammation.",
+        "cui": "C0009264",
+        "cui_label": "Cold Temperature"
+      }
+    ]
+  },
+  "diet": {
+    "term_type": "regular",
+    "instances": [
+      {
+        "sentence": "A low-sodium diet was prescribed to manage the patient's hypertension.",
+        "cui": "C0012155",
+        "cui_label": "Dietary Regimen"
+      },
+      {
+        "sentence": "The Mediterranean diet has been shown to reduce cardiovascular disease risk.",
+        "cui": "C0012155",
+        "cui_label": "Dietary Regimen"
+      },
+      {
+        "sentence": "Patients with celiac disease must maintain a strict gluten-free diet.",
+        "cui": "C0012155",
+        "cui_label": "Dietary Regimen"
+      },
+      {
+        "sentence": "The ketogenic diet was evaluated as an adjunct therapy for drug-resistant epilepsy.",
+        "cui": "C0012155",
+        "cui_label": "Dietary Regimen"
+      },
+      {
+        "sentence": "A high-fiber diet reduces the risk of colorectal cancer and promotes bowel health.",
+        "cui": "C0012155",
+        "cui_label": "Dietary Regimen"
+      },
+      {
+        "sentence": "The study assessed the habitual diet of participants using food frequency questionnaires.",
+        "cui": "C0012159",
+        "cui_label": "Food Intake Pattern"
+      },
+      {
+        "sentence": "Poor diet quality was associated with increased risk of metabolic syndrome.",
+        "cui": "C0012159",
+        "cui_label": "Food Intake Pattern"
+      },
+      {
+        "sentence": "The diet of the study population consisted primarily of processed foods.",
+        "cui": "C0012159",
+        "cui_label": "Food Intake Pattern"
+      },
+      {
+        "sentence": "Nutritional analysis revealed that the average diet was deficient in essential vitamins.",
+        "cui": "C0012159",
+        "cui_label": "Food Intake Pattern"
+      },
+      {
+        "sentence": "Improving the diet of school children was the primary goal of the intervention.",
+        "cui": "C0012159",
+        "cui_label": "Food Intake Pattern"
+      }
+    ]
+  },
+  "discharge": {
+    "term_type": "regular",
+    "instances": [
+      {
+        "sentence": "The patient was ready for discharge after three days of inpatient treatment.",
+        "cui": "C0030685",
+        "cui_label": "Patient Discharge"
+      },
+      {
+        "sentence": "Discharge planning should begin on admission to ensure continuity of care.",
+        "cui": "C0030685",
+        "cui_label": "Patient Discharge"
+      },
+      {
+        "sentence": "Early discharge from hospital was associated with lower readmission rates in this cohort.",
+        "cui": "C0030685",
+        "cui_label": "Patient Discharge"
+      },
+      {
+        "sentence": "The discharge summary included medication reconciliation and follow-up instructions.",
+        "cui": "C0030685",
+        "cui_label": "Patient Discharge"
+      },
+      {
+        "sentence": "Premature discharge increased the risk of complications in postoperative patients.",
+        "cui": "C0030685",
+        "cui_label": "Patient Discharge"
+      },
+      {
+        "sentence": "Vaginal discharge was reported as a primary symptom in women with bacterial vaginosis.",
+        "cui": "C0333278",
+        "cui_label": "Bodily Discharge"
+      },
+      {
+        "sentence": "Purulent discharge from the wound indicated a secondary bacterial infection.",
+        "cui": "C0333278",
+        "cui_label": "Bodily Discharge"
+      },
+      {
+        "sentence": "Nipple discharge may be a sign of galactorrhea or, in rare cases, breast cancer.",
+        "cui": "C0333278",
+        "cui_label": "Bodily Discharge"
+      },
+      {
+        "sentence": "Urethral discharge was observed in patients diagnosed with gonorrhea.",
+        "cui": "C0333278",
+        "cui_label": "Bodily Discharge"
+      },
+      {
+        "sentence": "The character of the discharge\u2014color, consistency, and odor\u2014guided diagnosis.",
+        "cui": "C0333278",
+        "cui_label": "Bodily Discharge"
+      }
+    ]
+  },
+  "resistance": {
+    "term_type": "regular",
+    "instances": [
+      {
+        "sentence": "Elevated pulmonary vascular resistance was identified as a complication of chronic heart failure.",
+        "cui": "C0301641",
+        "cui_label": "Vascular Resistance"
+      },
+      {
+        "sentence": "Peripheral resistance determines afterload and contributes to systemic blood pressure.",
+        "cui": "C0301641",
+        "cui_label": "Vascular Resistance"
+      },
+      {
+        "sentence": "Vasodilators reduce vascular resistance and improve cardiac output.",
+        "cui": "C0301641",
+        "cui_label": "Vascular Resistance"
+      },
+      {
+        "sentence": "Total peripheral resistance was measured non-invasively using Doppler ultrasound.",
+        "cui": "C0301641",
+        "cui_label": "Vascular Resistance"
+      },
+      {
+        "sentence": "A decrease in systemic vascular resistance was observed following administration of the drug.",
+        "cui": "C0301641",
+        "cui_label": "Vascular Resistance"
+      },
+      {
+        "sentence": "Antibiotic resistance is an increasing global health threat requiring urgent action.",
+        "cui": "C0301642",
+        "cui_label": "Drug Resistance"
+      },
+      {
+        "sentence": "Multidrug-resistant tuberculosis poses a significant challenge for treatment.",
+        "cui": "C0301642",
+        "cui_label": "Drug Resistance"
+      },
+      {
+        "sentence": "Insulin resistance is a key feature of type 2 diabetes mellitus.",
+        "cui": "C0301642",
+        "cui_label": "Drug Resistance"
+      },
+      {
+        "sentence": "Cancer cells can develop resistance to chemotherapy through various mechanisms.",
+        "cui": "C0301642",
+        "cui_label": "Drug Resistance"
+      },
+      {
+        "sentence": "The development of resistance to antimalarial drugs has complicated treatment protocols.",
+        "cui": "C0301642",
+        "cui_label": "Drug Resistance"
+      }
+    ]
+  },
+  "strain": {
+    "term_type": "regular",
+    "instances": [
+      {
+        "sentence": "The virulent strain of E. coli was isolated from contaminated food samples.",
+        "cui": "C0038793",
+        "cui_label": "Bacterial Strain"
+      },
+      {
+        "sentence": "A novel strain of influenza virus was detected during the winter outbreak.",
+        "cui": "C0038793",
+        "cui_label": "Bacterial Strain"
+      },
+      {
+        "sentence": "The antibiotic-resistant strain spread rapidly through the hospital ward.",
+        "cui": "C0038793",
+        "cui_label": "Bacterial Strain"
+      },
+      {
+        "sentence": "Multiple strains of Staphylococcus aureus were characterized using molecular typing.",
+        "cui": "C0038793",
+        "cui_label": "Bacterial Strain"
+      },
+      {
+        "sentence": "The laboratory maintained a reference strain for comparative microbiology studies.",
+        "cui": "C0038793",
+        "cui_label": "Bacterial Strain"
+      },
+      {
+        "sentence": "The athlete sustained a hamstring strain during the sprint event.",
+        "cui": "C0038814",
+        "cui_label": "Muscle Strain"
+      },
+      {
+        "sentence": "Physical therapy was recommended for the patient's lumbar strain.",
+        "cui": "C0038814",
+        "cui_label": "Muscle Strain"
+      },
+      {
+        "sentence": "Muscle strain from overexertion resulted in localized pain and tenderness.",
+        "cui": "C0038814",
+        "cui_label": "Muscle Strain"
+      },
+      {
+        "sentence": "Rest, ice, compression, and elevation were prescribed for the ankle strain.",
+        "cui": "C0038814",
+        "cui_label": "Muscle Strain"
+      },
+      {
+        "sentence": "Repetitive motion caused a strain injury to the rotator cuff tendons.",
+        "cui": "C0038814",
+        "cui_label": "Muscle Strain"
+      }
+    ]
+  },
+  "mole": {
+    "term_type": "regular",
+    "instances": [
+      {
+        "sentence": "The dermatologist examined the mole for signs of malignant transformation.",
+        "cui": "C0026919",
+        "cui_label": "Pigmented Nevus (Skin Mole)"
+      },
+      {
+        "sentence": "A mole showing irregular borders and multiple colors was biopsied for histology.",
+        "cui": "C0026919",
+        "cui_label": "Pigmented Nevus (Skin Mole)"
+      },
+      {
+        "sentence": "Patients with numerous moles should undergo regular skin surveillance.",
+        "cui": "C0026919",
+        "cui_label": "Pigmented Nevus (Skin Mole)"
+      },
+      {
+        "sentence": "The mole was excised and sent for pathological examination.",
+        "cui": "C0026919",
+        "cui_label": "Pigmented Nevus (Skin Mole)"
+      },
+      {
+        "sentence": "Changes in the size or color of a mole may indicate early melanoma.",
+        "cui": "C0026919",
+        "cui_label": "Pigmented Nevus (Skin Mole)"
+      },
+      {
+        "sentence": "The enzyme catalyzes the conversion of one mole of substrate per second.",
+        "cui": "C0439232",
+        "cui_label": "Unit of Measurement (Mole)"
+      },
+      {
+        "sentence": "Drug concentrations are often expressed in millimoles per liter.",
+        "cui": "C0439232",
+        "cui_label": "Unit of Measurement (Mole)"
+      },
+      {
+        "sentence": "A mole of any substance contains exactly 6.022 times ten to the power of 23 molecules.",
+        "cui": "C0439232",
+        "cui_label": "Unit of Measurement (Mole)"
+      },
+      {
+        "sentence": "The reaction requires two moles of oxygen for complete combustion.",
+        "cui": "C0439232",
+        "cui_label": "Unit of Measurement (Mole)"
+      },
+      {
+        "sentence": "Electrolyte concentrations in blood plasma are measured in millimoles per liter.",
+        "cui": "C0439232",
+        "cui_label": "Unit of Measurement (Mole)"
+      }
+    ]
+  },
+  "pressure": {
+    "term_type": "regular",
+    "instances": [
+      {
+        "sentence": "Elevated pressure in the arterial system is a major risk factor for stroke.",
+        "cui": "C0005823",
+        "cui_label": "Blood Pressure"
+      },
+      {
+        "sentence": "The pressure was measured at both arms and found to be asymmetric.",
+        "cui": "C0005823",
+        "cui_label": "Blood Pressure"
+      },
+      {
+        "sentence": "Diastolic pressure below 60 mmHg is associated with poor coronary perfusion.",
+        "cui": "C0005823",
+        "cui_label": "Blood Pressure"
+      },
+      {
+        "sentence": "Ambulatory pressure monitoring provided a comprehensive picture of 24-hour values.",
+        "cui": "C0005823",
+        "cui_label": "Blood Pressure"
+      },
+      {
+        "sentence": "Treatment reduced the systolic pressure from 165 to 128 mmHg.",
+        "cui": "C0005823",
+        "cui_label": "Blood Pressure"
+      },
+      {
+        "sentence": "Intracranial pressure was elevated following the traumatic brain injury.",
+        "cui": "C0033095",
+        "cui_label": "Physical Pressure (Force)"
+      },
+      {
+        "sentence": "The pressure within the eye was measured using tonometry.",
+        "cui": "C0033095",
+        "cui_label": "Physical Pressure (Force)"
+      },
+      {
+        "sentence": "Intraabdominal pressure was monitored in mechanically ventilated patients.",
+        "cui": "C0033095",
+        "cui_label": "Physical Pressure (Force)"
+      },
+      {
+        "sentence": "Atmospheric pressure changes can trigger migraine episodes in susceptible individuals.",
+        "cui": "C0033095",
+        "cui_label": "Physical Pressure (Force)"
+      },
+      {
+        "sentence": "Compartment pressure exceeding 30 mmHg indicates compartment syndrome.",
+        "cui": "C0033095",
+        "cui_label": "Physical Pressure (Force)"
+      }
+    ]
+  },
+  "concentration": {
+    "term_type": "regular",
+    "instances": [
+      {
+        "sentence": "The plasma concentration of the drug peaked at two hours after administration.",
+        "cui": "C0522510",
+        "cui_label": "Chemical Concentration"
+      },
+      {
+        "sentence": "Serum concentration of glucose was measured after an overnight fast.",
+        "cui": "C0522510",
+        "cui_label": "Chemical Concentration"
+      },
+      {
+        "sentence": "Therapeutic drug monitoring ensures that blood concentration remains within the target range.",
+        "cui": "C0522510",
+        "cui_label": "Chemical Concentration"
+      },
+      {
+        "sentence": "The minimum inhibitory concentration was determined for each antibiotic tested.",
+        "cui": "C0522510",
+        "cui_label": "Chemical Concentration"
+      },
+      {
+        "sentence": "Lead concentration in drinking water exceeded the safety threshold set by regulators.",
+        "cui": "C0522510",
+        "cui_label": "Chemical Concentration"
+      },
+      {
+        "sentence": "Patients with attention-deficit disorder have difficulty maintaining concentration.",
+        "cui": "C1377576",
+        "cui_label": "Cognitive Concentration"
+      },
+      {
+        "sentence": "Fatigue impaired the concentration and reaction time of shift workers.",
+        "cui": "C1377576",
+        "cui_label": "Cognitive Concentration"
+      },
+      {
+        "sentence": "Concentration and memory were assessed using standardized neuropsychological tests.",
+        "cui": "C1377576",
+        "cui_label": "Cognitive Concentration"
+      },
+      {
+        "sentence": "Poor concentration is a common complaint among patients with depression.",
+        "cui": "C1377576",
+        "cui_label": "Cognitive Concentration"
+      },
+      {
+        "sentence": "Mindfulness training improved sustained concentration in elderly participants.",
+        "cui": "C1377576",
+        "cui_label": "Cognitive Concentration"
+      }
+    ]
+  },
+  "association": {
+    "term_type": "regular",
+    "instances": [
+      {
+        "sentence": "A significant association was found between smoking and lung cancer incidence.",
+        "cui": "C0004083",
+        "cui_label": "Statistical Association"
+      },
+      {
+        "sentence": "The association between obesity and type 2 diabetes is well established.",
+        "cui": "C0004083",
+        "cui_label": "Statistical Association"
+      },
+      {
+        "sentence": "No statistically significant association was observed between the variables.",
+        "cui": "C0004083",
+        "cui_label": "Statistical Association"
+      },
+      {
+        "sentence": "Genome-wide association studies have identified multiple risk loci for the disease.",
+        "cui": "C0004083",
+        "cui_label": "Statistical Association"
+      },
+      {
+        "sentence": "The strength of the association was quantified using the odds ratio.",
+        "cui": "C0004083",
+        "cui_label": "Statistical Association"
+      },
+      {
+        "sentence": "The American Medical Association published updated clinical guidelines.",
+        "cui": "C0004073",
+        "cui_label": "Professional Association"
+      },
+      {
+        "sentence": "The national association of cardiologists organized an annual congress.",
+        "cui": "C0004073",
+        "cui_label": "Professional Association"
+      },
+      {
+        "sentence": "Membership in the association is open to all licensed practitioners.",
+        "cui": "C0004073",
+        "cui_label": "Professional Association"
+      },
+      {
+        "sentence": "The association released a position statement on evidence-based prescribing.",
+        "cui": "C0004073",
+        "cui_label": "Professional Association"
+      },
+      {
+        "sentence": "The psychiatric association endorsed the revised diagnostic criteria.",
+        "cui": "C0004073",
+        "cui_label": "Professional Association"
+      }
+    ]
+  },
+  "secretion": {
+    "term_type": "regular",
+    "instances": [
+      {
+        "sentence": "Insulin secretion by pancreatic beta cells is impaired in type 2 diabetes.",
+        "cui": "C0036536",
+        "cui_label": "Biological Secretion"
+      },
+      {
+        "sentence": "Gastric acid secretion was reduced following proton pump inhibitor treatment.",
+        "cui": "C0036536",
+        "cui_label": "Biological Secretion"
+      },
+      {
+        "sentence": "Thyroid hormone secretion is regulated by the hypothalamic-pituitary axis.",
+        "cui": "C0036536",
+        "cui_label": "Biological Secretion"
+      },
+      {
+        "sentence": "Excessive secretion of cortisol leads to Cushing's syndrome.",
+        "cui": "C0036536",
+        "cui_label": "Biological Secretion"
+      },
+      {
+        "sentence": "The secretion of mucus protects the respiratory epithelium from pathogens.",
+        "cui": "C0036536",
+        "cui_label": "Biological Secretion"
+      },
+      {
+        "sentence": "Airway secretions were cleared using mechanical suction during ventilation.",
+        "cui": "C0036538",
+        "cui_label": "Secretion (Product)"
+      },
+      {
+        "sentence": "Thick secretions obstructed the bronchi of patients with cystic fibrosis.",
+        "cui": "C0036538",
+        "cui_label": "Secretion (Product)"
+      },
+      {
+        "sentence": "The secretion was cultured and analyzed for bacterial growth.",
+        "cui": "C0036538",
+        "cui_label": "Secretion (Product)"
+      },
+      {
+        "sentence": "Purulent secretions from the ear canal suggested otitis media.",
+        "cui": "C0036538",
+        "cui_label": "Secretion (Product)"
+      },
+      {
+        "sentence": "The color and viscosity of the nasal secretion helped guide antibiotic selection.",
+        "cui": "C0036538",
+        "cui_label": "Secretion (Product)"
+      }
+    ]
+  },
+  "weight": {
+    "term_type": "regular",
+    "instances": [
+      {
+        "sentence": "Patients with a body weight above 30 kg per square meter are classified as obese.",
+        "cui": "C0005910",
+        "cui_label": "Body Weight"
+      },
+      {
+        "sentence": "Weight loss of more than 10 percent is considered significant in oncology.",
+        "cui": "C0005910",
+        "cui_label": "Body Weight"
+      },
+      {
+        "sentence": "The patient's weight increased by 5 kg following initiation of corticosteroid therapy.",
+        "cui": "C0005910",
+        "cui_label": "Body Weight"
+      },
+      {
+        "sentence": "Low birth weight is associated with increased neonatal morbidity.",
+        "cui": "C0005910",
+        "cui_label": "Body Weight"
+      },
+      {
+        "sentence": "Monitoring weight weekly helps detect fluid retention in heart failure patients.",
+        "cui": "C0005910",
+        "cui_label": "Body Weight"
+      },
+      {
+        "sentence": "The meta-analysis assigned weight to each study based on sample size and precision.",
+        "cui": "C0439208",
+        "cui_label": "Statistical Weight"
+      },
+      {
+        "sentence": "Weighted regression was used to account for heterogeneity across study sites.",
+        "cui": "C0439208",
+        "cui_label": "Statistical Weight"
+      },
+      {
+        "sentence": "Each observation was assigned a weight proportional to the inverse of its variance.",
+        "cui": "C0439208",
+        "cui_label": "Statistical Weight"
+      },
+      {
+        "sentence": "The weight of evidence favored the intervention over the control treatment.",
+        "cui": "C0439208",
+        "cui_label": "Statistical Weight"
+      },
+      {
+        "sentence": "Propensity score weighting was applied to balance baseline characteristics.",
+        "cui": "C0439208",
+        "cui_label": "Statistical Weight"
+      }
+    ]
+  },
+  "fat": {
+    "term_type": "regular",
+    "instances": [
+      {
+        "sentence": "Saturated fat consumption was positively correlated with cardiovascular disease risk.",
+        "cui": "C0015677",
+        "cui_label": "Dietary Fat"
+      },
+      {
+        "sentence": "The diet was high in fat and low in carbohydrates as per the ketogenic protocol.",
+        "cui": "C0015677",
+        "cui_label": "Dietary Fat"
+      },
+      {
+        "sentence": "Replacing saturated fat with unsaturated fat reduced LDL cholesterol levels.",
+        "cui": "C0015677",
+        "cui_label": "Dietary Fat"
+      },
+      {
+        "sentence": "Trans fat intake was associated with increased systemic inflammation.",
+        "cui": "C0015677",
+        "cui_label": "Dietary Fat"
+      },
+      {
+        "sentence": "Dietary fat provides essential fatty acids and fat-soluble vitamins.",
+        "cui": "C0015677",
+        "cui_label": "Dietary Fat"
+      },
+      {
+        "sentence": "Visceral fat is a strong predictor of metabolic syndrome and cardiovascular risk.",
+        "cui": "C0015670",
+        "cui_label": "Adipose Tissue (Body Fat)"
+      },
+      {
+        "sentence": "Subcutaneous fat was measured by skinfold thickness at multiple body sites.",
+        "cui": "C0015670",
+        "cui_label": "Adipose Tissue (Body Fat)"
+      },
+      {
+        "sentence": "Excessive abdominal fat is an independent risk factor for type 2 diabetes.",
+        "cui": "C0015670",
+        "cui_label": "Adipose Tissue (Body Fat)"
+      },
+      {
+        "sentence": "Brown adipose fat plays a role in thermogenesis and energy expenditure.",
+        "cui": "C0015670",
+        "cui_label": "Adipose Tissue (Body Fat)"
+      },
+      {
+        "sentence": "Fat accumulation in the liver is the hallmark of non-alcoholic fatty liver disease.",
+        "cui": "C0015670",
+        "cui_label": "Adipose Tissue (Body Fat)"
+      }
+    ]
+  },
+  "frequency": {
+    "term_type": "regular",
+    "instances": [
+      {
+        "sentence": "The frequency of adverse events was higher in the treatment group than placebo.",
+        "cui": "C0376249",
+        "cui_label": "Frequency of Occurrence"
+      },
+      {
+        "sentence": "Seizure frequency decreased significantly after starting the new antiepileptic drug.",
+        "cui": "C0376249",
+        "cui_label": "Frequency of Occurrence"
+      },
+      {
+        "sentence": "Migraine frequency was reduced from 8 to 3 episodes per month after treatment.",
+        "cui": "C0376249",
+        "cui_label": "Frequency of Occurrence"
+      },
+      {
+        "sentence": "The frequency of hospitalizations dropped following implementation of the protocol.",
+        "cui": "C0376249",
+        "cui_label": "Frequency of Occurrence"
+      },
+      {
+        "sentence": "Urinary frequency is a common complaint in patients with overactive bladder.",
+        "cui": "C0376249",
+        "cui_label": "Frequency of Occurrence"
+      },
+      {
+        "sentence": "High frequency ultrasound provides detailed images of superficial structures.",
+        "cui": "C0016977",
+        "cui_label": "Sound/Wave Frequency"
+      },
+      {
+        "sentence": "The electrical signal was filtered to retain only low frequency components.",
+        "cui": "C0016977",
+        "cui_label": "Sound/Wave Frequency"
+      },
+      {
+        "sentence": "Tinnitus was characterized as a high frequency ringing in the ears.",
+        "cui": "C0016977",
+        "cui_label": "Sound/Wave Frequency"
+      },
+      {
+        "sentence": "Nerve conduction velocity was measured at different frequencies of stimulation.",
+        "cui": "C0016977",
+        "cui_label": "Sound/Wave Frequency"
+      },
+      {
+        "sentence": "Low frequency transcranial magnetic stimulation was used to inhibit cortical excitability.",
+        "cui": "C0016977",
+        "cui_label": "Sound/Wave Frequency"
+      }
+    ]
+  },
+  "operation": {
+    "term_type": "regular",
+    "instances": [
+      {
+        "sentence": "The patient underwent a complex operation to remove the tumor from the colon.",
+        "cui": "C0543467",
+        "cui_label": "Surgical Operation"
+      },
+      {
+        "sentence": "Post-operative care following the cardiac operation included intensive monitoring.",
+        "cui": "C0543467",
+        "cui_label": "Surgical Operation"
+      },
+      {
+        "sentence": "The operation was performed laparoscopically to minimize recovery time.",
+        "cui": "C0543467",
+        "cui_label": "Surgical Operation"
+      },
+      {
+        "sentence": "Intraoperative complications extended the duration of the operation by two hours.",
+        "cui": "C0543467",
+        "cui_label": "Surgical Operation"
+      },
+      {
+        "sentence": "Written informed consent was obtained before the operation was performed.",
+        "cui": "C0543467",
+        "cui_label": "Surgical Operation"
+      },
+      {
+        "sentence": "The laboratory operation followed strict quality control procedures.",
+        "cui": "C0677878",
+        "cui_label": "Operational Process"
+      },
+      {
+        "sentence": "The operation of the medical device was evaluated for safety and efficacy.",
+        "cui": "C0677878",
+        "cui_label": "Operational Process"
+      },
+      {
+        "sentence": "Standard operation procedures were updated following the audit recommendations.",
+        "cui": "C0677878",
+        "cui_label": "Operational Process"
+      },
+      {
+        "sentence": "The operation of the healthcare system was analyzed using process mapping.",
+        "cui": "C0677878",
+        "cui_label": "Operational Process"
+      },
+      {
+        "sentence": "Proper operation of the ventilator requires specialized training.",
+        "cui": "C0677878",
+        "cui_label": "Operational Process"
+      }
+    ]
+  },
+  "support": {
+    "term_type": "regular",
+    "instances": [
+      {
+        "sentence": "Family support was identified as a key factor in recovery from substance use disorder.",
+        "cui": "C0175780",
+        "cui_label": "Emotional or Social Support"
+      },
+      {
+        "sentence": "Psychosocial support improved quality of life in patients with terminal illness.",
+        "cui": "C0175780",
+        "cui_label": "Emotional or Social Support"
+      },
+      {
+        "sentence": "Peer support groups helped patients manage chronic pain more effectively.",
+        "cui": "C0175780",
+        "cui_label": "Emotional or Social Support"
+      },
+      {
+        "sentence": "Social support was associated with lower rates of depression in elderly patients.",
+        "cui": "C0175780",
+        "cui_label": "Emotional or Social Support"
+      },
+      {
+        "sentence": "Caregiver support programs reduced burnout among family members of dementia patients.",
+        "cui": "C0175780",
+        "cui_label": "Emotional or Social Support"
+      },
+      {
+        "sentence": "Ventilatory support was initiated due to respiratory failure.",
+        "cui": "C0037713",
+        "cui_label": "Physical or Mechanical Support"
+      },
+      {
+        "sentence": "External cardiac support devices were used in patients with cardiogenic shock.",
+        "cui": "C0037713",
+        "cui_label": "Physical or Mechanical Support"
+      },
+      {
+        "sentence": "Orthotic support reduced pain and improved function in patients with flat feet.",
+        "cui": "C0037713",
+        "cui_label": "Physical or Mechanical Support"
+      },
+      {
+        "sentence": "Nutritional support via nasogastric tube was provided during the acute phase.",
+        "cui": "C0037713",
+        "cui_label": "Physical or Mechanical Support"
+      },
+      {
+        "sentence": "Life support was withdrawn following a determination of brain death.",
+        "cui": "C0037713",
+        "cui_label": "Physical or Mechanical Support"
+      }
+    ]
+  },
+  "ms": {
+    "term_type": "acronym",
+    "instances": [
+      {
+        "sentence": "Patients diagnosed with MS often experience relapsing and remitting disease courses.",
+        "cui": "C0026769",
+        "cui_label": "Multiple Sclerosis"
+      },
+      {
+        "sentence": "MRI of the brain showed multiple demyelinating lesions consistent with MS.",
+        "cui": "C0026769",
+        "cui_label": "Multiple Sclerosis"
+      },
+      {
+        "sentence": "Disease-modifying therapies can slow the progression of MS.",
+        "cui": "C0026769",
+        "cui_label": "Multiple Sclerosis"
+      },
+      {
+        "sentence": "Fatigue is one of the most disabling symptoms reported by patients with MS.",
+        "cui": "C0026769",
+        "cui_label": "Multiple Sclerosis"
+      },
+      {
+        "sentence": "The diagnosis of MS was confirmed using the McDonald diagnostic criteria.",
+        "cui": "C0026769",
+        "cui_label": "Multiple Sclerosis"
+      },
+      {
+        "sentence": "Rheumatic fever is the most common cause of acquired MS in developing countries.",
+        "cui": "C0026826",
+        "cui_label": "Mitral Stenosis"
+      },
+      {
+        "sentence": "Echocardiography confirmed severe MS with a mitral valve area of 0.9 cm squared.",
+        "cui": "C0026826",
+        "cui_label": "Mitral Stenosis"
+      },
+      {
+        "sentence": "Percutaneous balloon mitral valvuloplasty was performed for symptomatic MS.",
+        "cui": "C0026826",
+        "cui_label": "Mitral Stenosis"
+      },
+      {
+        "sentence": "The murmur characteristic of MS was heard best at the apex with the bell.",
+        "cui": "C0026826",
+        "cui_label": "Mitral Stenosis"
+      },
+      {
+        "sentence": "MS leads to elevated left atrial pressure and pulmonary congestion.",
+        "cui": "C0026826",
+        "cui_label": "Mitral Stenosis"
+      },
+      {
+        "sentence": "Liquid chromatography MS was used to quantify trace amounts of the drug.",
+        "cui": "C0026906",
+        "cui_label": "Mass Spectrometry"
+      },
+      {
+        "sentence": "Tandem MS enabled identification of phosphopeptides in proteomic studies.",
+        "cui": "C0026906",
+        "cui_label": "Mass Spectrometry"
+      },
+      {
+        "sentence": "Metabolomics studies rely on high-resolution MS to profile small molecules.",
+        "cui": "C0026906",
+        "cui_label": "Mass Spectrometry"
+      },
+      {
+        "sentence": "MS confirmed the molecular weight of the synthesized compound.",
+        "cui": "C0026906",
+        "cui_label": "Mass Spectrometry"
+      },
+      {
+        "sentence": "Gas chromatography coupled with MS identified volatile organic compounds in exhaled air.",
+        "cui": "C0026906",
+        "cui_label": "Mass Spectrometry"
+      }
+    ]
+  },
+  "bp": {
+    "term_type": "acronym",
+    "instances": [
+      {
+        "sentence": "Ambulatory BP monitoring over 24 hours revealed a nocturnal dipping pattern.",
+        "cui": "C0005823",
+        "cui_label": "Blood Pressure"
+      },
+      {
+        "sentence": "Target BP for hypertensive patients with diabetes is below 130 over 80 mmHg.",
+        "cui": "C0005823",
+        "cui_label": "Blood Pressure"
+      },
+      {
+        "sentence": "Elevated BP was recorded at three consecutive clinic visits before treatment was started.",
+        "cui": "C0005823",
+        "cui_label": "Blood Pressure"
+      },
+      {
+        "sentence": "Self-monitoring of BP at home improved adherence to antihypertensive medication.",
+        "cui": "C0005823",
+        "cui_label": "Blood Pressure"
+      },
+      {
+        "sentence": "BP was measured after five minutes of rest in the seated position.",
+        "cui": "C0005823",
+        "cui_label": "Blood Pressure"
+      },
+      {
+        "sentence": "Drug purity was assessed according to BP specifications and reference standards.",
+        "cui": "C0174727",
+        "cui_label": "British Pharmacopoeia"
+      },
+      {
+        "sentence": "The BP monograph was used to verify the identity of the active pharmaceutical ingredient.",
+        "cui": "C0174727",
+        "cui_label": "British Pharmacopoeia"
+      },
+      {
+        "sentence": "Compliance with BP standards is mandatory for medicines licensed in the United Kingdom.",
+        "cui": "C0174727",
+        "cui_label": "British Pharmacopoeia"
+      },
+      {
+        "sentence": "Dissolution testing was performed in accordance with the BP apparatus method.",
+        "cui": "C0174727",
+        "cui_label": "British Pharmacopoeia"
+      },
+      {
+        "sentence": "The formulation met all quality criteria as defined in the current edition of the BP.",
+        "cui": "C0174727",
+        "cui_label": "British Pharmacopoeia"
+      }
+    ]
+  },
+  "pe": {
+    "term_type": "acronym",
+    "instances": [
+      {
+        "sentence": "CT pulmonary angiography confirmed bilateral PE in the patient.",
+        "cui": "C0034067",
+        "cui_label": "Pulmonary Embolism"
+      },
+      {
+        "sentence": "Anticoagulation with low molecular weight heparin was initiated for acute PE.",
+        "cui": "C0034067",
+        "cui_label": "Pulmonary Embolism"
+      },
+      {
+        "sentence": "D-dimer elevation raised the clinical suspicion of PE in this postoperative patient.",
+        "cui": "C0034067",
+        "cui_label": "Pulmonary Embolism"
+      },
+      {
+        "sentence": "Massive PE causing haemodynamic instability was treated with systemic thrombolysis.",
+        "cui": "C0034067",
+        "cui_label": "Pulmonary Embolism"
+      },
+      {
+        "sentence": "The Wells score was calculated to estimate the pre-test probability of PE.",
+        "cui": "C0034067",
+        "cui_label": "Pulmonary Embolism"
+      },
+      {
+        "sentence": "PE revealed splenomegaly and tender hepatomegaly consistent with portal hypertension.",
+        "cui": "C1947907",
+        "cui_label": "Physical Examination"
+      },
+      {
+        "sentence": "Findings on PE were unremarkable except for mild ankle edema.",
+        "cui": "C1947907",
+        "cui_label": "Physical Examination"
+      },
+      {
+        "sentence": "Cardiovascular PE showed a regular rate and rhythm with no murmurs.",
+        "cui": "C1947907",
+        "cui_label": "Physical Examination"
+      },
+      {
+        "sentence": "The patient consented to a full PE including neurological assessment.",
+        "cui": "C1947907",
+        "cui_label": "Physical Examination"
+      },
+      {
+        "sentence": "Abdominal PE detected a pulsatile mass suggesting aortic aneurysm.",
+        "cui": "C1947907",
+        "cui_label": "Physical Examination"
+      }
+    ]
+  },
+  "dm": {
+    "term_type": "acronym",
+    "instances": [
+      {
+        "sentence": "Patients with DM require regular screening for diabetic retinopathy.",
+        "cui": "C0011849",
+        "cui_label": "Diabetes Mellitus"
+      },
+      {
+        "sentence": "HbA1c levels above 6.5 percent confirm the diagnosis of DM.",
+        "cui": "C0011849",
+        "cui_label": "Diabetes Mellitus"
+      },
+      {
+        "sentence": "Type 2 DM is associated with insulin resistance and progressive beta cell failure.",
+        "cui": "C0011849",
+        "cui_label": "Diabetes Mellitus"
+      },
+      {
+        "sentence": "Metformin remains the first-line oral agent for newly diagnosed type 2 DM.",
+        "cui": "C0011849",
+        "cui_label": "Diabetes Mellitus"
+      },
+      {
+        "sentence": "Foot care education is essential to prevent ulceration in patients with DM.",
+        "cui": "C0011849",
+        "cui_label": "Diabetes Mellitus"
+      },
+      {
+        "sentence": "DM is an inflammatory myopathy characterized by skin rash and proximal muscle weakness.",
+        "cui": "C0013240",
+        "cui_label": "Dermatomyositis"
+      },
+      {
+        "sentence": "Heliotrope rash around the eyelids is a classic dermatological feature of DM.",
+        "cui": "C0013240",
+        "cui_label": "Dermatomyositis"
+      },
+      {
+        "sentence": "Gottron papules overlying the metacarpophalangeal joints suggest DM.",
+        "cui": "C0013240",
+        "cui_label": "Dermatomyositis"
+      },
+      {
+        "sentence": "Muscle biopsy in DM shows perifascicular atrophy and inflammatory infiltrate.",
+        "cui": "C0013240",
+        "cui_label": "Dermatomyositis"
+      },
+      {
+        "sentence": "Anti-Jo-1 antibodies are associated with interstitial lung disease complicating DM.",
+        "cui": "C0013240",
+        "cui_label": "Dermatomyositis"
+      }
+    ]
+  },
+  "cf": {
+    "term_type": "acronym",
+    "instances": [
+      {
+        "sentence": "CFTR mutations cause CF, a life-limiting autosomal recessive disorder.",
+        "cui": "C0010674",
+        "cui_label": "Cystic Fibrosis"
+      },
+      {
+        "sentence": "Regular physiotherapy to clear secretions is essential in the management of CF.",
+        "cui": "C0010674",
+        "cui_label": "Cystic Fibrosis"
+      },
+      {
+        "sentence": "Pancreatic enzyme replacement therapy is required by most patients with CF.",
+        "cui": "C0010674",
+        "cui_label": "Cystic Fibrosis"
+      },
+      {
+        "sentence": "Lung transplantation may be considered for patients with end-stage CF.",
+        "cui": "C0010674",
+        "cui_label": "Cystic Fibrosis"
+      },
+      {
+        "sentence": "Newborn screening programs allow early diagnosis and treatment of CF.",
+        "cui": "C0010674",
+        "cui_label": "Cystic Fibrosis"
+      },
+      {
+        "sentence": "Analysis of CF revealed elevated protein and lymphocytosis consistent with viral meningitis.",
+        "cui": "C0007785",
+        "cui_label": "Cerebrospinal Fluid"
+      },
+      {
+        "sentence": "CF pressure was measured at 28 cm of water confirming raised intracranial pressure.",
+        "cui": "C0007785",
+        "cui_label": "Cerebrospinal Fluid"
+      },
+      {
+        "sentence": "Oligoclonal bands in the CF support the diagnosis of multiple sclerosis.",
+        "cui": "C0007785",
+        "cui_label": "Cerebrospinal Fluid"
+      },
+      {
+        "sentence": "Blood was detected in the CF following subarachnoid hemorrhage.",
+        "cui": "C0007785",
+        "cui_label": "Cerebrospinal Fluid"
+      },
+      {
+        "sentence": "Glucose levels in the CF were below serum levels, suggesting bacterial infection.",
+        "cui": "C0007785",
+        "cui_label": "Cerebrospinal Fluid"
+      }
+    ]
+  },
+  "ac": {
+    "term_type": "acronym",
+    "instances": [
+      {
+        "sentence": "AC was used as an adjunct therapy for chronic low back pain management.",
+        "cui": "C0001786",
+        "cui_label": "Acupuncture"
+      },
+      {
+        "sentence": "A randomized trial evaluated the efficacy of AC versus sham treatment for headache.",
+        "cui": "C0001786",
+        "cui_label": "Acupuncture"
+      },
+      {
+        "sentence": "Patients receiving AC reported greater improvement in pain scores than controls.",
+        "cui": "C0001786",
+        "cui_label": "Acupuncture"
+      },
+      {
+        "sentence": "Traditional Chinese medicine advocates AC for a wide range of conditions.",
+        "cui": "C0001786",
+        "cui_label": "Acupuncture"
+      },
+      {
+        "sentence": "The mechanisms underlying AC analgesia are still under investigation.",
+        "cui": "C0001786",
+        "cui_label": "Acupuncture"
+      },
+      {
+        "sentence": "Beta receptor stimulation activates AC and increases intracellular cyclic AMP.",
+        "cui": "C0220611",
+        "cui_label": "Adenylyl Cyclase"
+      },
+      {
+        "sentence": "Inhibition of AC reduced cAMP production and attenuated the inflammatory response.",
+        "cui": "C0220611",
+        "cui_label": "Adenylyl Cyclase"
+      },
+      {
+        "sentence": "AC isoforms show tissue-specific expression patterns in the cardiovascular system.",
+        "cui": "C0220611",
+        "cui_label": "Adenylyl Cyclase"
+      },
+      {
+        "sentence": "G-protein coupled receptor signaling acts through AC to modulate cellular function.",
+        "cui": "C0220611",
+        "cui_label": "Adenylyl Cyclase"
+      },
+      {
+        "sentence": "Cholera toxin permanently activates AC leading to massive fluid secretion.",
+        "cui": "C0220611",
+        "cui_label": "Adenylyl Cyclase"
+      }
+    ]
+  },
+  "cp": {
+    "term_type": "acronym",
+    "instances": [
+      {
+        "sentence": "CP is a group of non-progressive disorders affecting motor function.",
+        "cui": "C0007789",
+        "cui_label": "Cerebral Palsy"
+      },
+      {
+        "sentence": "Spastic CP is the most common type and results from cortical or subcortical injury.",
+        "cui": "C0007789",
+        "cui_label": "Cerebral Palsy"
+      },
+      {
+        "sentence": "Early physiotherapy intervention improves functional outcomes in children with CP.",
+        "cui": "C0007789",
+        "cui_label": "Cerebral Palsy"
+      },
+      {
+        "sentence": "Botulinum toxin injections reduce spasticity in selected children with CP.",
+        "cui": "C0007789",
+        "cui_label": "Cerebral Palsy"
+      },
+      {
+        "sentence": "The Gross Motor Function Classification System is used to grade severity in CP.",
+        "cui": "C0007789",
+        "cui_label": "Cerebral Palsy"
+      },
+      {
+        "sentence": "The patient presented with acute CP radiating to the left arm.",
+        "cui": "C0008036",
+        "cui_label": "Chest Pain"
+      },
+      {
+        "sentence": "Non-cardiac causes of CP include esophageal spasm and musculoskeletal disorders.",
+        "cui": "C0008036",
+        "cui_label": "Chest Pain"
+      },
+      {
+        "sentence": "Troponin measurement is essential in the evaluation of acute CP.",
+        "cui": "C0008036",
+        "cui_label": "Chest Pain"
+      },
+      {
+        "sentence": "Unstable angina manifests as rest CP without ST-elevation on ECG.",
+        "cui": "C0008036",
+        "cui_label": "Chest Pain"
+      },
+      {
+        "sentence": "CP on exertion that resolves with rest is the hallmark of stable angina.",
+        "cui": "C0008036",
+        "cui_label": "Chest Pain"
+      }
+    ]
+  },
+  "gp": {
+    "term_type": "acronym",
+    "instances": [
+      {
+        "sentence": "The GP referred the patient to a cardiologist for further evaluation.",
+        "cui": "C0017368",
+        "cui_label": "General Practitioner"
+      },
+      {
+        "sentence": "Primary care is delivered by a GP who acts as the first point of contact.",
+        "cui": "C0017368",
+        "cui_label": "General Practitioner"
+      },
+      {
+        "sentence": "The GP prescribed antihypertensive medication and arranged follow-up in six weeks.",
+        "cui": "C0017368",
+        "cui_label": "General Practitioner"
+      },
+      {
+        "sentence": "Regular GP visits allowed early detection of the patient's hypertension.",
+        "cui": "C0017368",
+        "cui_label": "General Practitioner"
+      },
+      {
+        "sentence": "The GP coordinated care between multiple specialists to manage the chronic conditions.",
+        "cui": "C0017368",
+        "cui_label": "General Practitioner"
+      },
+      {
+        "sentence": "Platelet GP IIb/IIIa inhibitors are used to prevent thrombosis during coronary interventions.",
+        "cui": "C0017382",
+        "cui_label": "Glycoprotein"
+      },
+      {
+        "sentence": "The viral envelope GP mediates cell entry and is a target for vaccine development.",
+        "cui": "C0017382",
+        "cui_label": "Glycoprotein"
+      },
+      {
+        "sentence": "Surface GP expression was quantified by flow cytometry.",
+        "cui": "C0017382",
+        "cui_label": "Glycoprotein"
+      },
+      {
+        "sentence": "P-selectin is a GP expressed on activated platelets and endothelial cells.",
+        "cui": "C0017382",
+        "cui_label": "Glycoprotein"
+      },
+      {
+        "sentence": "GP Ib is the receptor for von Willebrand factor and is essential for platelet adhesion.",
+        "cui": "C0017382",
+        "cui_label": "Glycoprotein"
+      }
+    ]
+  },
+  "fa": {
+    "term_type": "acronym",
+    "instances": [
+      {
+        "sentence": "Omega-3 FA supplementation reduced triglyceride levels in dyslipidemic patients.",
+        "cui": "C0015684",
+        "cui_label": "Fatty Acid"
+      },
+      {
+        "sentence": "Free FA released from adipose tissue provide an energy substrate during fasting.",
+        "cui": "C0015684",
+        "cui_label": "Fatty Acid"
+      },
+      {
+        "sentence": "Essential FA cannot be synthesized de novo and must be obtained from the diet.",
+        "cui": "C0015684",
+        "cui_label": "Fatty Acid"
+      },
+      {
+        "sentence": "Plasma FA profiling revealed elevated saturated FA in obese patients.",
+        "cui": "C0015684",
+        "cui_label": "Fatty Acid"
+      },
+      {
+        "sentence": "Short-chain FA produced by gut bacteria have anti-inflammatory properties.",
+        "cui": "C0015684",
+        "cui_label": "Fatty Acid"
+      },
+      {
+        "sentence": "FA supplementation before and during pregnancy prevents neural tube defects.",
+        "cui": "C0015695",
+        "cui_label": "Folic Acid"
+      },
+      {
+        "sentence": "Deficiency of FA leads to megaloblastic anemia with hypersegmented neutrophils.",
+        "cui": "C0015695",
+        "cui_label": "Folic Acid"
+      },
+      {
+        "sentence": "Patients on methotrexate therapy require concurrent FA to reduce toxicity.",
+        "cui": "C0015695",
+        "cui_label": "Folic Acid"
+      },
+      {
+        "sentence": "Serum FA levels were measured to evaluate nutritional status in elderly patients.",
+        "cui": "C0015695",
+        "cui_label": "Folic Acid"
+      },
+      {
+        "sentence": "Fortification of cereal products with FA has reduced the incidence of spina bifida.",
+        "cui": "C0015695",
+        "cui_label": "Folic Acid"
+      }
+    ]
+  },
+  "mr": {
+    "term_type": "acronym",
+    "instances": [
+      {
+        "sentence": "Brain MR demonstrated multiple cortical and subcortical lesions.",
+        "cui": "C0024485",
+        "cui_label": "Magnetic Resonance Imaging"
+      },
+      {
+        "sentence": "Cardiac MR quantified ventricular volumes and ejection fraction precisely.",
+        "cui": "C0024485",
+        "cui_label": "Magnetic Resonance Imaging"
+      },
+      {
+        "sentence": "MR spectroscopy provided metabolic information about the lesion.",
+        "cui": "C0024485",
+        "cui_label": "Magnetic Resonance Imaging"
+      },
+      {
+        "sentence": "Diffusion-weighted MR imaging was used to identify acute ischemic stroke.",
+        "cui": "C0024485",
+        "cui_label": "Magnetic Resonance Imaging"
+      },
+      {
+        "sentence": "Whole-body MR was performed to assess disease extent in multiple myeloma.",
+        "cui": "C0024485",
+        "cui_label": "Magnetic Resonance Imaging"
+      },
+      {
+        "sentence": "Echocardiography revealed severe MR with a broad eccentric regurgitant jet.",
+        "cui": "C0026266",
+        "cui_label": "Mitral Regurgitation"
+      },
+      {
+        "sentence": "Surgical repair is preferred over replacement for MR caused by leaflet prolapse.",
+        "cui": "C0026266",
+        "cui_label": "Mitral Regurgitation"
+      },
+      {
+        "sentence": "Chronic MR causes left ventricular volume overload and eventually dilatation.",
+        "cui": "C0026266",
+        "cui_label": "Mitral Regurgitation"
+      },
+      {
+        "sentence": "Transcatheter edge-to-edge repair is an emerging treatment for inoperable MR.",
+        "cui": "C0026266",
+        "cui_label": "Mitral Regurgitation"
+      },
+      {
+        "sentence": "MR severity was graded using quantitative echocardiographic parameters.",
+        "cui": "C0026266",
+        "cui_label": "Mitral Regurgitation"
+      }
+    ]
+  },
+  "aa": {
+    "term_type": "regular",
+    "instances": [
+      {
+        "sentence": "sample text on aa (amino acids)",
+        "cui": "C0002520",
+        "cui_label": "C0002520"
+      },
+      {
+        "sentence": "sample text on aa (alcoholics anonymous)",
+        "cui": "C0001972",
+        "cui_label": "C0001972"
+      }
+    ]
+  },
+  "strep": {
+    "term_type": "regular",
+    "instances": [
+      {
+        "sentence": "sample text on strep 1",
+        "cui": "C0038402",
+        "cui_label": "C0038402"
+      },
+      {
+        "sentence": "sample text on the strep 2",
+        "cui": "C0038395",
+        "cui_label": "C0038395"
+      }
+    ]
+  }
+}
