@@ -1,0 +1,9 @@
+punkt_tab
+punkt
+wordnet
+omw-1.4
+averaged_perceptron_tagger_eng
+averaged_perceptron_tagger
+wordnet_ic
+semcor
+stopwords

@@ -10,6 +10,24 @@ import streamlit as st
 
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
+
+
+@st.cache_resource(show_spinner="Downloading language resources…")
+def _ensure_nltk_resources():
+    import nltk
+    resources = [
+        "punkt_tab", "punkt", "wordnet", "omw-1.4",
+        "averaged_perceptron_tagger_eng", "averaged_perceptron_tagger",
+        "wordnet_ic", "semcor", "stopwords",
+    ]
+    for r in resources:
+        try:
+            nltk.download(r, quiet=True)
+        except Exception:
+            pass
+
+_ensure_nltk_resources()
+
 from nltk.corpus import wordnet as wn
 from nltk.tokenize import word_tokenize
 from nltk.wsd import lesk
