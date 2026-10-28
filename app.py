@@ -20,7 +20,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 
-@st.cache_resource(show_spinner="Downloading language resources…")
+@st.cache_resource(show_spinner="Loading language resources…")
 def _ensure_nltk_resources():
     import nltk
     resources = [
@@ -33,6 +33,32 @@ def _ensure_nltk_resources():
             nltk.download(r, quiet=True)
         except Exception:
             pass
+
+    # Pre-open all corpus readers now (with check_same_thread=False from the
+    # sqlite3 patch above) so worker threads can reuse the same connections.
+    try:
+        from nltk.corpus import wordnet as _wn
+        _wn.synsets("drug")
+    except Exception:
+        pass
+    try:
+        from nltk.corpus import wordnet_ic as _wic
+        _wic.ic("ic-semcor.dat")
+    except Exception:
+        pass
+    try:
+        from pywsd.lesk import original_lesk, simple_lesk, cosine_lesk
+        _sent = "The patient was prescribed a drug."
+        original_lesk(_sent, "drug")
+        simple_lesk(_sent, "drug", hyperhypo=False)
+        cosine_lesk(_sent, "drug")
+    except Exception:
+        pass
+    try:
+        from pywsd.similarity import max_similarity
+        max_similarity("The patient was prescribed a drug.", "drug", option="path")
+    except Exception:
+        pass
 
 _ensure_nltk_resources()
 
