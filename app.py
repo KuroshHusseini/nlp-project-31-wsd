@@ -1,8 +1,18 @@
 import os
+import sqlite3
 import time
 import warnings
 
 warnings.filterwarnings("ignore")
+
+# NLTK's WordNet IC corpus opens SQLite connections in the main thread.
+# Streamlit runs callbacks in worker threads, which sqlite3 rejects by default.
+# Patching connect() before any NLTK import allows cross-thread reuse.
+_sqlite_connect = sqlite3.connect
+def _connect_any_thread(*args, **kwargs):
+    kwargs.setdefault("check_same_thread", False)
+    return _sqlite_connect(*args, **kwargs)
+sqlite3.connect = _connect_any_thread
 
 import matplotlib
 import pandas as pd
