@@ -11,6 +11,27 @@ from pywsd import max_lemma_count
 _lemmatizer = WordNetLemmatizer()
 
 
+def to_synset(result):
+    """Normalize a pywsd result (Synset, name string, tuple/list, dict) to a Synset or None."""
+    if result is None:
+        return None
+    if hasattr(result, "definition") and hasattr(result, "name"):
+        return result
+    if isinstance(result, str):
+        try:
+            return wn.synset(result)
+        except Exception:
+            return None
+    if isinstance(result, dict):
+        result = list(result.items())
+    if isinstance(result, (tuple, list)):
+        for item in result:
+            syn = to_synset(item)
+            if syn is not None:
+                return syn
+    return None
+
+
 def basic_lesk(sentence, target_word, pos=None):
     """Run NLTK Lesk on the sentence and return sense info or an error dict."""
     tokens = word_tokenize(sentence.lower())
@@ -66,15 +87,10 @@ def run_all_algorithms(sentence, target_word):
     results = []
 
     def record(name, synset, elapsed):
+        synset = to_synset(synset)
         if synset is None:
             syn_name = None
             syn_def = "No prediction returned."
-        elif isinstance(synset, str):
-            syn_name = synset
-            try:
-                syn_def = wn.synset(synset).definition()
-            except Exception:
-                syn_def = "No definition available."
         else:
             syn_name = synset.name()
             syn_def = synset.definition()

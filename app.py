@@ -166,6 +166,7 @@ if page == "WSD Analyzer":
             st.stop()
 
         elapsed_ms = round((time.time() - t0) * 1000, 1)
+        predicted = wsd_module.to_synset(predicted)
 
         if predicted is None:
             st.warning(
