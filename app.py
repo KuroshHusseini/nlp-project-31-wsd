@@ -5,9 +5,7 @@ import warnings
 
 warnings.filterwarnings("ignore")
 
-# NLTK's WordNet IC corpus opens SQLite connections in the main thread.
-# Streamlit runs callbacks in worker threads, which sqlite3 rejects by default.
-# Patching connect() before any NLTK import allows cross-thread reuse.
+# workaround for SQLite threading error with NLTK in Streamlit
 _sqlite_connect = sqlite3.connect
 def _connect_any_thread(*args, **kwargs):
     kwargs.setdefault("check_same_thread", False)
